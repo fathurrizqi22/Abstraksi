@@ -1,0 +1,13 @@
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.exe
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.deps.json
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.runtimeconfig.json
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.runtimeconfig.dev.json
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.dll
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\bin\Debug\netcoreapp3.1\Abstraksi.pdb
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.AssemblyInfo.cs
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.dll
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.pdb
+C:\Users\asus\source\repos\Abstraksi\Abstraksi\obj\Debug\netcoreapp3.1\Abstraksi.genruntimeconfig.cache
